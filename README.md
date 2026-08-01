@@ -230,19 +230,19 @@ Implemented Natural Language Processing models using LSTM and Word2Vec for text 
 
 📧 **Email**
 
-**simransharma5699382@gmail.com**
+**simranbhasin310@gmail.com**
 
 💻 **GitHub**
 
-https://github.com/SimranBhasin13200
+https://github.com/SimranBhasin310
 
 🔗 **LinkedIn**
 
-https://www.linkedin.com/in/simranbhasin1320
+https://www.linkedin.com/in/simranbhasin310
 
 🌐 **Portfolio**
 
-https://github.com/SimranBhasin13200/SimranBhasin13200.github.io
+https://github.com/SimranBhasin13200/SimranBhasin310.github.io
 
 ---
 
@@ -264,6 +264,6 @@ I enjoy transforming raw datasets into interactive dashboards and predictive mod
 
 If you like my work, don't forget to ⭐ my repositories and connect with me.
 
-![](https://komarev.com/ghpvc/?username=SimranBhasin13200&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=SimranBhasin310&style=for-the-badge&color=blue)
 
 </p>
